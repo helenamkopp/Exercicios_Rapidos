@@ -1,3 +1,5 @@
+#Desconto com juros, conforme escolha da forma de pagamento.
+
 print("{:=^40}".format(" LOJAS HELENA "))
 preço = float(input("Digite o preço das compras R$ "))
 print('''Formas de pagamento:
