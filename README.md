@@ -1,4 +1,4 @@
-# PythonExercicios
+# Exercicios_Rápidos
 
 #Exercicios com funcionalidades básicas. 
 #Não orientados a objeto. 
